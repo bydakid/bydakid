@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bydakid
 - 👀 I’m interested in Web3, A.I and Web Development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Crypto and Web3 Projects
+- 🌱 I’m currently learning Computer Science at the UoL
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
 <!---
