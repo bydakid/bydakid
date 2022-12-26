@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web3 and Mobile Development
 - https://bydakid.github.io/
 
-ls
-git status
-git add.
-git commit -m "update1"
-git push
+- ls
+- git status
+- git add.
+- git commit -m "update1"
+- git push
