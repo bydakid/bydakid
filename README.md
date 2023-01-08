@@ -3,6 +3,7 @@
 - https://bydakid.github.io/
 
 - ls
+- git clone ...https..
 - git status
 - git add.
 - git commit -m "update1"
