@@ -7,7 +7,6 @@
 - Passionate about solving problems and using technology to find solutions.
 
 🛠️ Languages and Tools:
-C++  JavaScript  ROS  html5  CSS  Bootstrap  Latex  Nodejs  npm  mysql  Visual Studio  Visual Studio Code  git  github  bitbucket  Linux  Slack  habitica 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
